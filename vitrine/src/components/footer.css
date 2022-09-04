@@ -1,0 +1,26 @@
+:root{
+	--primary : #1b4694;
+	--seconde : #e21e20;
+}
+
+.footer{
+	background: rgb(40,40,40);
+}
+
+.footer h1 ,h5{
+	color: #fff;
+	text-shadow: 0 0 20px rgb(254,252,201) , 10px -10px 30px rgb(254,236,133) ;	
+}
+.footer p{
+	color: #767676;
+}
+
+.footer .iconColor{
+	color: #767676;
+	margin-right: 10px;
+}
+
+.footer a{
+	color: #767676;
+	text-decoration: none;
+}
